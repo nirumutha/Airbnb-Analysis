@@ -1,0 +1,10 @@
+# Ignore data and database files
+*.csv
+*.db
+*.xlsx
+
+# Ignore other assets and system files
+*.png
+*.docx
+.DS_Store
+*.sqbpro
